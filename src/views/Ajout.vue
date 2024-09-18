@@ -144,3 +144,5 @@ const checkCustomCategory = () => {
 <style scoped>
 /* Pas besoin de style personnalisé, tout est géré par Bootstrap et Tailwind */
 </style>
+
+<!-- notification de localhost à changer -->
